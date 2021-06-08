@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Multi-agent Indoor Navigation
+description: A Real-world Multi-agent Indoor Navigation Benchmark for Cooperative Learning
+github:
+  zip_url: https://main-dataset.github.io/

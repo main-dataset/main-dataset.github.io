@@ -1,5 +1,10 @@
 theme: jekyll-theme-cayman
 title: Multi-agent Indoor Navigation
+name: Multi-agent Indoor Navigation
 description: A Real-world Multi-agent Indoor Navigation Benchmark for Cooperative Learning
+show_downloads: true
+markdown: kramdown
 github:
-  zip_url: https://main-dataset.github.io/
+  zip_url: https://main-dataset.github.io/bar.zip
+  tar_url: https://main-dataset.github.io/bar.tar
+  repository_url: https://github.com/ZhuFengdaaa/main

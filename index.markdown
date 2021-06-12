@@ -15,7 +15,7 @@ An implementation of "MAIN: A Real-world Multi-agent Indoor Navigation Benchmark
 
 ## Architecture Overview
 
-![framework_v2](/assets/framework_v2.jpg)
+![framework_v2](/assets/images/framework_v2.jpg)
 
 
 ## Installing dependencies:
